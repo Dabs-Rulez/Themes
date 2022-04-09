@@ -1,0 +1,91 @@
+/**
+* @name Revert Userpopouts
+* @author Dabs_Rulez
+* @version 1.0
+* @invite frhHpDcyrt
+* @description A theme that brings back old userpopouts before May 20 2021. 
+* @source 
+*/
+.avatarWrapperNormal-ahVUaC {
+  left: calc(50% - 88px/2);
+}
+.headerText-1-WmDq {
+  text-align: center;
+}
+.popoutBanner-3cqRD9 {
+  opacity: 0;
+}
+.warningCircleIcon-mFju_m {
+  display: none;
+}
+.profileBadges-2pItdR {
+  display: none;
+}
+.divider-1wtgZ3 {
+  display: none;
+}
+.aboutMeSection-PUghFQ {
+  display: none;
+}
+.userInfoSection-3her-v {
+  display: none;
+}  
+.headerText-1-WmDq {
+  text-align: center;
+}
+.role-2TIOKu{
+  background: transparent;
+  border: 1px solid;
+  border-radius: 11px;
+}
+.roleCircle-1EgnFN {
+  margin-left: 0;
+}
+.addButton-1_dZYu.role-2TIOKu {
+    border-color: #4f545c;
+}
+.addButtonIcon-3HZ_2f {
+    width: 10px;
+    height: 10px;
+}
+.addButtonIcon-3HZ_2f>path {
+    d: path('M3 0h1v7H3zM0 3h7v1H0z');
+    color: #b9bbbe;
+    transform: scale(calc(24 / 7));
+}
+.userPopout-2j1gM4 {
+  width: 250px !important;
+}
+.headerTagNoNickname-3tGHj6 {
+  font-size: 16px;
+}
+.nickname-t08Mck {
+  font-size: 16px;
+}
+.avatar-2Vndt_ {
+  background: #202225;
+  border: solid 4px #202225;
+}
+.userPopout-2j1gM4, .footer-3naVBw, .bodyInnerWrapper-2bQs1k {
+  background: #2f3136;
+}
+.headerNormal-3Zn_yu {
+  background-color: #202225;
+}
+.headerTop-3GPUSF {
+  background-color: #202225;
+}
+.userPopout-2j1gM4 .thin-31rlnD {
+  padding: 16px;
+}
+.customStatus-3XAoF9 {
+  justify-content: center;
+  display: flex;
+  color: #fff8;
+}
+.bodyTitle-2Az3VQ {
+  font-size: 13px;
+}
+.input-2g-os5.focused-1AtTHC, .input-2g-os5:focus {
+  border-color: #7289da;
+}
